@@ -5,7 +5,7 @@ Meu Projetos e meu aperfeiçoamento nas tecnologia que uso!!
 
 "Saber não é o bastante; precisamos aplicar.
 Querer não é o bastante, precisamos fazer."
--bruce Lee
+<br> -bruce Lee
 
 
 Aqui abaixo você vai ver meu Gitstatus !!
