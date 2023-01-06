@@ -1,7 +1,7 @@
 
 ### Olá !Me Chamo Lucas Felipe Candido!
-Bem-vindo ao meu github onde você ver,
-Meus Projetos e meu aperfeiçoamento nas tecnologia que uso!!
+Bem-vindo ao meu github ◢◤.<br>Voce podera ver
+Meu Projetos e meu aperfeiçoamento nas tecnologia que uso!!
 
 "Saber não é o bastante; precisamos aplicar.
 Querer não é o bastante, precisamos fazer."
