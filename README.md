@@ -1,11 +1,14 @@
 
 ### Olá !Me Chamo Lucas Felipe Candido!
-Bem-vindo ao meu github onde você vera meus Projetos e meu aperfeiçoamento nas tecnologia que uso!!
-Aqui abaixo você vai ver meu Gitstatus !!
+Bem-vindo ao meu github onde você ver,
+Meus Projetos e meu aperfeiçoamento nas tecnologia que uso!!
+
 "Saber não é o bastante; precisamos aplicar.
 Querer não é o bastante, precisamos fazer."
 -bruce Lee
 
+
+Aqui abaixo você vai ver meu Gitstatus !!
 
 
 <div>
