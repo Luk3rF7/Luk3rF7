@@ -1,5 +1,5 @@
 
-### Olá !Me Chamo Lucas Felipe Candido!
+### Olá !Me Chamo Lucas Felipe Candido! 
 Bem-vindo ao meu github ◢◤.<br>Voce podera ver
 Meu Projetos e meu aperfeiçoamento nas tecnologia que uso!!
 
@@ -9,6 +9,7 @@ Querer não é o bastante, precisamos fazer."
 
 Aqui abaixo você vai ver meu Gitstatus !!
 
+<h1>obs: ainda em progresso perfil</h1>
 
 <div>
 <a href="https://github.com/Luk3rF7">
