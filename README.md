@@ -103,9 +103,3 @@ Querer não é o bastante, precisamos fazer."
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lkas_f/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Lukaz_f94)
-
-
-
-
-
-  ![Snake animation](https://github.com/Luk3rF7/Luk3rF7/blob/output/github-contribution-grid-snake.svg)
