@@ -1,5 +1,5 @@
 <header align="center">
 
-<img src="./css/Lucas Felipe_banner.png"   width="800em"  margin="auto"/>
+<img align="center" src="./css/Lucas Felipe_banner.png"   width="650em" />
 
 </header>
