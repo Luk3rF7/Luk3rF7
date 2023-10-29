@@ -1,5 +1,5 @@
 <header align="center">
   
-![MasterHead](Lucas%20Felipe_banner.png)
+![MasterHead](./css/Lucas%20Felipe_banner.png)
 
 </header>
