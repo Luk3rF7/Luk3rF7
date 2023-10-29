@@ -1,5 +1,5 @@
 <header align="center">
-
-<img align="center" src="./css/Lucas Felipe_banner.png"  />
+  
+![MasterHead](Lucas%20Felipe_banner.png)
 
 </header>
