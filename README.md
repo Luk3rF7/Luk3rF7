@@ -1,4 +1,4 @@
-![MasterHead](Lucas%20Felipe_banner.png)
+![MasterHead](banner.png)
 <h1 align="center" >Eu sou Lucas! </br>Bem-Vindo ao Meu Github </h1>
 
 <section style="display:inline_block">
