@@ -1,4 +1,8 @@
-![MasterHead](banner.png)
+<div align="center" style="width:100%">
+ 
+<img src="banner.png" style='width:90vw;border-radius:15px;'>
+ 
+</div>
 <h1 align="center" >Eu sou Lucas! </br>Bem-Vindo ao Meu Github </h1>
 
 <section style="display:inline_block">
