@@ -128,6 +128,7 @@
 
 </td><td valign="top" width="33%">
 
+
 <h2 align="center">Projetos</h2>
 
 <div>
@@ -138,3 +139,11 @@
 </td></tr></table>  
 
 <br/>  
+<h2>Git Status </h2>
+
+<section style="display:inline_block">
+<a href="https://github.com/Luk3rF7">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luk3rF7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk3rF7&layout=compact&langs_count=16&theme=dark"/>
+
+</section>
