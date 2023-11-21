@@ -2,7 +2,6 @@
    
  <div align='left'>
    <img  src="./css/banner2.png" height="200px" width="340px" alt="Sublime's custom image" />
-   <img  src="./css/banner.png" height="200px"  width="340px" alt="Sublime's custom image" />
  </div>
 </header>
 
