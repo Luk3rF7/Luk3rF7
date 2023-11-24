@@ -16,7 +16,7 @@
       com curso de Web Modern e atualmente estou estudando curso javascript/typescript iniciante a avançado!
    </p>
 
-   <h3>Curriculo<a href="https://luk3rf7.github.io/Cv_resume/"/> </h3>
+   <h3><a href="https://luk3rf7.github.io/Cv_resume/">Web Curriculo</a> </h3>
    
 </section>
 
